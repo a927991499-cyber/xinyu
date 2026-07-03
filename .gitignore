@@ -1,0 +1,38 @@
+# v0 sandbox internal files
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.v0-trash/
+.vercel/
+
+# Environment variables
+.env*.local
+
+# Common ignores
+node_modules
+.next/
+.DS_Store
+
+# User data (SQLite DB, memory files)
+data/
+
+# Audio files (TTS generated)
+audio/
+public/audio/
+
+# Live2D model files (copyrighted assets)
+public/live2d/
+角色/
+
+# Generated images
+public/uploads/
+public/generated-images/
+
+# Backup files
+*.bak
+*.tar.gz
+*.py
+
+# Temp deploy scripts
+deploy_temp/
