@@ -36,3 +36,6 @@ public/generated-images/
 
 # Temp deploy scripts
 deploy_temp/
+
+# Build artifacts
+tsconfig.tsbuildinfo
