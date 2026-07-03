@@ -6,9 +6,11 @@
 
 **🌐 线上体验：** [https://aiyy.chulianpp.cn](https://aiyy.chulianpp.cn)
 
-> 🎬 点击下方视频查看功能演示：
+> 🎬 功能演示：
 
-<video src="assets/demo.mp4" controls width="100%" poster="assets/demo-poster.jpg"></video>
+<video src="assets/demo.mp4" controls width="100%"></video>
+
+*如果视频无法播放，请点击 [这里](https://raw.githubusercontent.com/a927991499-cyber/xinyu/main/assets/demo.mp4) 直接下载观看。*
 
 ---
 
