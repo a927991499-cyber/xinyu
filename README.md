@@ -1,12 +1,44 @@
+<div align="center">
+
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
+![Stars](https://img.shields.io/github/stars/a927991499-cyber/xinyu?style=flat-square&logo=github)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/social-preview.png">
+  <img src="assets/social-preview.png" width="100%" alt="心屿 Xinyu - AI Emotional Companion">
+</picture>
+
 # 心屿 · AI 情感陪伴
 
 > 你不会消失，记忆永远在线，备份另外一个你。
 
-一个基于 Next.js 的 AI 情感陪伴应用，拥有 Live2D 可交互角色、情感对话系统、人格画像分析、记忆系统等完整功能。
+**🌐 线上体验：** [https://aiyy.chulianpp.cn](https://aiyy.chulianpp.cn) · **⭐ Star 支持：** [GitHub](https://github.com/a927991499-cyber/xinyu)
 
-**🌐 线上体验：** [https://aiyy.chulianpp.cn](https://aiyy.chulianpp.cn)
+</div>
 
-> 🎬 功能演示：
+---
+
+## English Introduction
+
+**Xinyu** is an open-source AI emotional companion that brings your virtual character to life. It features:
+
+- 🎭 **Live2D Interactive Avatar** with facial expressions & lip sync
+- 💬 **Emotion-aware Conversations** powered by DeepSeek API (16 emotions)
+- 🧠 **Long-term Memory System** — flash/profile/event three-tier architecture
+- 🧬 **Persona Analysis** — 7-dimension personality profiling from conversations
+- 🔊 **CosyVoice TTS** with emotional voice output
+- 📱 **Community Features** — posts, comments, likes, admin panel
+
+**Tech Stack**: Next.js 16 · TypeScript · Tailwind CSS · SQLite · DeepSeek · CosyVoice · Live2D Cubism SDK
+
+> 👉 [Try the live demo](https://aiyy.chulianpp.cn) · No login required
+
+---
+
+> 🎬 功能演示 / Demo Video：
 
 <video src="assets/demo.mp4" controls width="100%"></video>
 
@@ -164,10 +196,27 @@ pnpm dev
 
 ---
 
-## 📄 开源协议
+## 🤝 贡献指南
 
-MIT License
+欢迎任何形式的贡献！你可以：
+
+- ⭐ **Star 本项目** — 让更多人看到
+- 🐛 **提交 Issue** — 报告 Bug 或提出新功能建议
+- 🔀 **提交 Pull Request** — 直接改进代码
+- 💬 **参与 Discussions** — 讨论项目方向
 
 ---
 
+## 📄 开源协议
+
+MIT License © 2026 心屿 (Xinyu)
+
+---
+
+<div align="center">
+  
 **心屿 · 用 AI 温暖你的每一天**
+
+*如果这个项目对你有帮助，请给一个 ⭐ Star 支持！*
+
+</div>
