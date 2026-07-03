@@ -6,6 +6,10 @@
 
 **🌐 线上体验：** [https://aiyy.chulianpp.cn](https://aiyy.chulianpp.cn)
 
+> 🎬 点击下方视频查看功能演示：
+
+<video src="assets/demo.mp4" controls width="100%" poster="assets/demo-poster.jpg"></video>
+
 ---
 
 ## ✨ 功能特性
